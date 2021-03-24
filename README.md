@@ -12,4 +12,5 @@ Adding and Deleting items
 ![Screenshot (26)](https://user-images.githubusercontent.com/71480401/112279213-acb77d00-8ca9-11eb-88fd-5aad03a9eebe.png)
 
 Check Completed items
-![Screenshot (24)](https://user-images.githubusercontent.com/71480401/112279227-b0e39a80-8ca9-11eb-9909-8db5f08a2ee7.png)
+![Uploading Screenshot (24).png…]()
+
