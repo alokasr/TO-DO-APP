@@ -15,7 +15,7 @@ Check Completed items
 ![Screenshott (24)](https://user-images.githubusercontent.com/71480401/112288645-90204280-8cb3-11eb-936f-d00965373b73.png)
 
 
-# Your Data will store on local Storage in Browser.
+# Your Data will store on local Storage.
 
 # Tools Used 
 JavaScript To Learn JS, Check https://www.geeksforgeeks.org/javascript-tutorial/
