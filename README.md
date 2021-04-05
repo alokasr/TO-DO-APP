@@ -1,6 +1,6 @@
 # TO-DO-APP
 
-In the project directory, you can list your Todo's and later edit , complete and mark them as delete also.
+In the project directory, you can list your Todo's and later edit , complete and mark them as delete also.Even you can search you
 # ScreenShots
 
 Landing Page
